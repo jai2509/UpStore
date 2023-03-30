@@ -1,3 +1,5 @@
+![upstore](https://user-images.githubusercontent.com/122394617/228818466-79fad4ea-1910-4e9c-bf0b-a971fe90859b.JPG)
+![upstore](https://user-images.githubusercontent.com/122394617/228818528-ae48a057-82b9-419c-9b55-663c8bc6febb.JPG)
 # UpStore
 E-Commerce Store
 This is a simple e-commerce store website built with HTML, CSS, and JavaScript. It allows users to browse and purchase products from different categories.
